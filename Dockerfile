@@ -1,0 +1,1 @@
+FROM docker.io/openstackmagnum/etcd:v3.2.7
