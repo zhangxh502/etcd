@@ -1,1 +1,1 @@
-FROM docker.io/openstackmagnum/etcd:v3.2.7
+FROM quay.io/coreos/etcd:v3.3.10-arm64
